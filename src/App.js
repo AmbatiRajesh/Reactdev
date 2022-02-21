@@ -19,6 +19,7 @@ function App() {
     <div className="App">
       <h1 className={blueColor ? "header" : safeColor ? "safe" : "error"}>
         Heading
+        <p>this are new changes</p>
       </h1>
       <h1>{name}</h1>
 <<<<<<< HEAD
